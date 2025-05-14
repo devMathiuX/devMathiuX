@@ -1,6 +1,4 @@
-### Hi there 👋
 
-<img src="https://profile-counter.glitch.me/devMathiuX/count.svg">
 
 [![GitHub followers](https://img.shields.io/github/followers/devMathiuX.svg?style=social&label=Followers)]
 
