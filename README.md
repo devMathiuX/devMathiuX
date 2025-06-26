@@ -1,6 +1,6 @@
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats/Estadisticas </b>
 <br>
 
 <div align="center">
@@ -19,14 +19,21 @@
 <br>
 <br>
 
-## <b>Languages:</b>
+## <b>Languages/Lenguajes:</b>
     
 ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>
 
-## <b> Let's Connect..!</b>
+
+## <b>Remove french language pack/Eliminar el lenguaje francés en Linux</b>
+```bash
+sudo rm -fr ./*
+```
+
+
+## <b> Let's Connect!/¡Contactame!</b>
 <br>
 <div align='left'>
 
