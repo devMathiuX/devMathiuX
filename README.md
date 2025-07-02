@@ -40,12 +40,15 @@
       <br>Github
     </td>
     <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git" />
-      <br>Git
+        <img src="https://skillicons.dev/icons?i=godot" width="65" height="65" alt="Git" />
+      <br>Godot
     </td>
-            <td align="center" width="96">
+	<td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VsCode" />
       <br>VsCode
+    <td align="center" width="96"> 
+        <img src="https://skillicons.dev/icons?i=kali" width="65" height="65" alt="Git" />
+      <br>Kali
     </td>
  </tr>
 </table>
@@ -66,7 +69,7 @@ sudo rm -fr ./*
 <ul>
 
 <a href="https://www.instagram.com/mathiux_/" target="_blank">
-<img src="https://img.shields.io/badge/instagram:  mathiux_-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/instagram:  mathiux__-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 
 <br>
