@@ -46,23 +46,3 @@
 sudo rm -fr ./*
 ```
 <br>
-
-## <b> Let's Connect!</b>
-<br>
-<div align='left'>
-
-<ul>
-
-<a href="https://www.instagram.com/mathiux_/" target="_blank">
-<img src="https://img.shields.io/badge/instagram:  mathiux__-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-
-<br>
-
-<a href="mailto:gilbales25@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  gilbales25@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-	
-</ul>
-</div>
-
